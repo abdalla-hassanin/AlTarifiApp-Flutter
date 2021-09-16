@@ -5,7 +5,7 @@
 
 
 # Screenshot
-<img align="left" width="270" height="570" src="/images/1.png">
+<img align="left" width="270" height="370" src="/images/1.png">
 <img align="left" width="270" height="570" src="/images/2.png">
 <img align="left" width="270" height="570" src="/images/3.png">
 <img align="left" width="270" height="570" src="/images/4.png">
